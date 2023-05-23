@@ -8,6 +8,7 @@
 
 #### Sample projects
 
+- [My Master thesis](https://github.com/juka19/DL-building-damage-assessment), Evaluating Deep Learning based Building Damage Assessment Methods in earthquake-affected, densely built-up urban areas: The case of Kahramanmaraş 
 - [Berlin Neighbourhood Diversity Dashboard](https://juka93.shinyapps.io/Berlin_diversity/), Github Repo [here](https://github.com/juka19/Berlin-neighbourhood-diversity)
 - [Image segmentation with aerial images tutorial](https://gabzech.github.io/building-segmentation-tutorial/), an end-to-end workflow on building footprint segmentation
 - [wordlcloud.mappeR](https://gabzech.github.io/wordcloud.mappeR/), an R library to create wordclouds as hierarchical maps
